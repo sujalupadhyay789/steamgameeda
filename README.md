@@ -8,8 +8,7 @@ Project has been built using **Python** and **Jupyter Notebook** for easy readab
 
 ## Dataset
 **Name:** Steam Game Data<br>
-**Author:** <a href="https://data.world/craigkelly">Craig Kelly</a><br>
 **Data Source:** Combination of data from publicly available Steam API's and steamspy.com<br>
 **Links:**
 * Data set available on <a href="https://data.world/craigkelly/steam-game-data">data.world</a>
-* Full details on <a href="https://github.com/CraigKelly/steam-data">GitHub</a> 
+
